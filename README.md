@@ -33,3 +33,6 @@ Dynamic Model: Chosen based on the AIC minimization approach, with 1 lag of unem
 Our models performed reasonably well on the evaluation sample (2010-2019), with varying forecast errors.
 
 The LASSO model outperformed the static and dynamic models in terms of forecast accuracy, as evidenced by lower Mean Absolute Percent Error (MAPE).
+
+#Acknowledgments
+The data used in this analysis was sourced from the IMF, World Bank, and Macrotrend.
