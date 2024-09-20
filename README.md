@@ -34,5 +34,5 @@ Our models performed reasonably well on the evaluation sample (2010-2019), with 
 
 The LASSO model outperformed the static and dynamic models in terms of forecast accuracy, as evidenced by lower Mean Absolute Percent Error (MAPE).
 
-#Acknowledgments
+## Acknowledgments
 The data used in this analysis was sourced from the IMF, World Bank, and Macrotrend.
