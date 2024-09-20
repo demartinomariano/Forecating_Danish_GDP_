@@ -10,8 +10,6 @@ Francesco Palluda.
 
 This project was conducted as part of our Econometrics course at Bocconi Univerisity.
 
-We began with an exploratory data analysis and constructed several models to forecast GDP growth. Our process included:
-
 ## Methodology 
 Data preprocessing: Handling missing data and ensuring stationarity of the GDP growth variable.
 
