@@ -20,3 +20,11 @@ Static Model: Reduced the number of regressors to CPI, unemployment, population,
 
 Dynamic Model: An ARDL (Auto Regressive Distributed Lag) model with lags selected using the Akaike Information Criterion (AIC).
 Model Evaluation: We used R-squared, Adjusted R-squared, AIC, and various forecast accuracy measures (such as Root Mean Squared Error) to compare model performance.
+
+## Results
+
+LASSO Regression: Simplified the model by removing non-contributing variables, leading to more efficient forecasting.
+
+Static Model: Provided a higher Adjusted R-squared and lower AIC, making it a better model for the given data.
+
+Dynamic Model: Chosen based on the AIC minimization approach, with 1 lag of unemployment rate and AR(1) selected as the optimal structure.
