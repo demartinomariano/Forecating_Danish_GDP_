@@ -28,3 +28,8 @@ LASSO Regression: Simplified the model by removing non-contributing variables, l
 Static Model: Provided a higher Adjusted R-squared and lower AIC, making it a better model for the given data.
 
 Dynamic Model: Chosen based on the AIC minimization approach, with 1 lag of unemployment rate and AR(1) selected as the optimal structure.
+
+## Forecast Performance
+Our models performed reasonably well on the evaluation sample (2010-2019), with varying forecast errors.
+
+The LASSO model outperformed the static and dynamic models in terms of forecast accuracy, as evidenced by lower Mean Absolute Percent Error (MAPE).
