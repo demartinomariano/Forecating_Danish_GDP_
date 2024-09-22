@@ -4,9 +4,7 @@
 This repository contains the code and analysis for forecasting Danish GDP growth, focusing on the period from 1973 to 2019. The project applies various econometric models, including LASSO regression, static, and dynamic models, to evaluate and forecast real GDP growth in Denmark using key economic variables.
 
 ## Authors
-- Mariano De Martino
-- Mariasole Olivetta
-- Francesco Palluda
+Mariano De Martino, Mariasole Olivetta, Francesco Palluda.
 
 This project was conducted as part of our Econometrics course at Bocconi Univerisity.
 
