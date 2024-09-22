@@ -37,3 +37,5 @@ The LASSO model outperformed the static and dynamic models in terms of forecast 
 
 ## Acknowledgments
 The data used in this analysis was sourced from the IMF, World Bank, and Macrotrend.
+## Contacts 
+For further inquiries, feel free to contact Mariano De Martino at mariano.demartino@studbocconi.it.
